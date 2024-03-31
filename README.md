@@ -35,4 +35,4 @@ Follow these instructions to get your two-axis gimbal up and running.
 2. **Clone the Repository:**
 
 ```bash
-git clone https://github.com/yourusername/arduino-two-axis-gimbal.git
+https://github.com/Kritarth96/Gimbal.git
